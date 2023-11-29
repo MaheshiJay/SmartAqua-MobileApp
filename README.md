@@ -1,6 +1,7 @@
 # SmartAqua-MobileApp
 
 The culmination of my final year research project is the development of a Smart Aqua mobile app designed to revolutionize aquarium practices. This innovative application encompasses four critical areas aimed at enhancing the overall management of aquariums: 
+
         1. [Fish identification]
         2. [Disease identification]
         3. [Water quality monitoring]
